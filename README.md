@@ -1,9 +1,9 @@
-# ESP-Voice Assistant
+# EchoLink : ESP-Voice Assistant
 
 ![ESP-Voice Assistant](https://img.shields.io/badge/ESP32-Voice%20Assistant-blue.svg)
 
 ## 📌 Overview
-ESP-Voice Assistant is a lightweight voice-controlled assistant built using an ESP32 microcontroller. It enables voice command execution for IoT devices, smart home automation, and other interactive applications. This project leverages speech recognition, MQTT communication, and AI-based processing for an enhanced user experience.
+EchoLink : ESP-Voice Assistant is a lightweight voice-controlled assistant built using an ESP32 microcontroller. It enables voice command execution for IoT devices, smart home automation, and other interactive applications. This project leverages speech recognition, MQTT communication, and AI-based processing for an enhanced user experience.
 
 ## 🚀 Features
 - **Speech Recognition**: Processes voice commands efficiently.
